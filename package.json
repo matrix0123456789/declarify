@@ -3,5 +3,15 @@
   "version": "0.1.0",
   "main": "src/index.js",
   "author": "MateuszKrawczyk <mateuszkrawczyk1996@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  }
 }
