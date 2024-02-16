@@ -1,0 +1,7 @@
+{
+  "name": "declarify",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "author": "MateuszKrawczyk <mateuszkrawczyk1996@gmail.com>",
+  "license": "MIT"
+}
